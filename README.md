@@ -1,6 +1,10 @@
 # Calculadora de IMC
 
-A new Flutter application.
+A new Flutter application.    
+
+![](https://github.com/rcoproc/flutter_calculadora_imc/blob/master/images/calculadora_tela1.jpeg)
+
+![](https://github.com/rcoproc/flutter_calculadora_imc/blob/master/images/calculadora_tela2.jpeg)
 
 ## Getting Started
 
