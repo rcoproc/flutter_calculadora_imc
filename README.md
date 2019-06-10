@@ -2,11 +2,10 @@
 
 A new Flutter application.    
 
-![](https://github.com/rcoproc/flutter_calculadora_imc/blob/master/images/calculadora_tela1.jpeg)
+|  Tela 1 | Dados Calculados   |
+|---------|--------------------|
+|  ![](https://github.com/rcoproc/flutter_calculadora_imc/blob/master/images/calculadora_tela1.jpeg) | ![](https://github.com/rcoproc/flutter_calculadora_imc/blob/master/images/calculadora_tela2.jpeg) |
 
-![](https://github.com/rcoproc/flutter_calculadora_imc/blob/master/images/calculadora_tela2.jpeg)
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
